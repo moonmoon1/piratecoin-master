@@ -1,0 +1,9 @@
+Building PirateCoin
+
+See doc/readme-qt.rst for instructions on building PirateCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of PirateCoin.
+
+See doc/build-*.txt for instructions on building PirateCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of PirateCoin.
